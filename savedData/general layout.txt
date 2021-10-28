@@ -1,0 +1,504 @@
+pokemon object:
+
+pokemon rarities:
+common
+uncommon
+rare
+legendary
+myhical
+
+
+pokemon areas:
+common area - normal 
+grassy area - bug, grass, flying
+sea erea - Water
+iceberg - ice, Fairy
+volcano - rock, fire, ground, steel
+huanted - Poison, Psychic, Ghost, Dark
+mountians - Fighting, Dragon, Flying, Electric
+
+import altariamega
+
+import ampharosmega
+
+import appletungmax
+
+import arceusbug
+import arceusdark
+import arceusdragon
+import arceuselectric
+import arceusfairy
+import arceusfighting
+import arceusfire
+import arceusflying
+import arceusghost
+import arceusgrass
+import arceusground
+import arceusice
+import arceuspoison
+import arceuspsychic
+import arceusrock
+import arceussteel
+import arceuswater
+
+import articunogalar
+
+import audinomega
+
+import abomasnowmega
+
+import absolmega
+
+import aegislashblade
+
+import aerodactylmega
+
+import aggronmega
+
+import alakazammega
+
+import alcremiecaramelswirlberry
+import alcremiecaramelswirlclover
+import alcremiecaramelswirlflower
+import alcremiecaramelswirllove
+import alcremiecaramelswirlplain
+import alcremiecaramelswirlribbon
+import alcremiecaramelswirlstar
+import alcremiecaramelswirlstrawberry
+
+import alcremiegmax
+
+import alcremielemoncreamberry
+import alcremielemoncreamclover
+import alcremielemoncreamflower
+import alcremielemoncreamlove
+import alcremielemoncreamplain
+import alcremielemoncreamribbon
+import alcremielemoncreamstar
+import alcremielemoncreamstrawberry
+
+import alcremiematchacreamberry
+import alcremiematchacreamclover
+import alcremiematchacreamflower
+import alcremiematchacreamlove
+import alcremiematchacreamplain
+import alcremiematchacreamribbon
+import alcremiematchacreamstar
+import alcremiematchacreamstrawberry
+
+import alcremiemintcreamberry
+import alcremiemintcreamclover
+import alcremiemintcreamflower
+import alcremiemintcreamlove
+import alcremiemintcreamplain
+import alcremiemintcreamribbon
+import alcremiemintcreamstar
+import alcremiemintcreamstrawberry
+
+import alcremierainbowswirlberry
+import alcremierainbowswirlclover
+import alcremierainbowswirlflower
+import alcremierainbowswirllove
+import alcremierainbowswirlplain
+import alcremierainbowswirlribbon
+import alcremierainbowswirlstar
+import alcremierainbowswirlstrawberry
+
+import alcremierubycreamberry
+import alcremierubycreamclover
+import alcremierubycreamflower
+import alcremierubycreamlove
+import alcremierubycreamplain
+import alcremierubycreamribbon
+import alcremierubycreamstar
+import alcremierubycreamstrawberry
+
+import alcremierubyswirlberry
+import alcremierubyswirlclover
+import alcremierubyswirlflower
+import alcremierubyswirllove
+import alcremierubyswirlplain
+import alcremierubyswirlribbon
+import alcremierubyswirlstar from
+import alcremierubyswirlstrawberry
+
+import alcremiesaltedcreamberry
+import alcremiesaltedcreamclover
+import alcremiesaltedcreamflower
+import alcremiesaltedcreamlove
+import alcremiesaltedcreamplain
+import alcremiesaltedcreamribbon
+import alcremiesaltedcreamstar
+import alcremiesaltedcreamstrawberry
+
+import alcremievanillacreamberry
+import alcremievanillacreamclover
+import alcremievanillacreamflower
+import alcremievanillacreamlove
+import alcremievanillacreamplain
+import alcremievanillacreamribbon
+import alcremievanillacreamstar
+import alcremievanillacreamstrawberry
+
+import banettemega
+
+import basculinbluestriped
+
+import beedrillmega
+
+import blastoisegmax
+import blastoisemega
+
+import blazikenmega
+
+import burmysandy
+import burmytrash
+
+import butterfreegmax
+
+import castformrainy
+import castformsnowy
+import castformsunny
+
+import centiskorchgmax
+
+import charizardgmax
+import charizardmegax
+import charizardmegay
+
+import cherrimsunshine
+
+import cinderacegmax
+
+import coalossalgmax
+
+import copperajahgmax
+
+import corsolagalar
+
+import corviknightgmax
+
+import calyrexice
+import calyrexshadow
+
+import cameruptmega
+
+import darmanitangalar
+
+import darumakagalar
+
+import deerlingautumn
+import deerlingsummer
+import deerlingwinter
+
+import deoxysattack
+import deoxysdefense
+import deoxysspeed
+
+import dianciemega
+
+import diglettalola
+
+import drednawgmax
+
+import dugtrioalola
+
+import duraludongmax
+
+import eeveegmax
+
+import eternatuseternamax
+
+import exeggutoralola
+
+import farfetchdgalar
+
+import flabebeblue
+import flabebeorange
+import flabebewhite
+import flabebeyellow
+
+import flapplegmax
+
+import floetteblue
+import floetteorange
+import floettewhite
+import floetteyellow
+
+import florgesblue
+import florgesorange
+import florgeswhite
+import florgesyellow
+
+import frillishf
+import furfroudandy
+import furfroudebutante
+import furfroudiamond
+import furfrouheart
+import furfroukabuki
+import furfroulareine
+import furfroumatron
+import furfroupharaoh
+import furfroustar
+
+import gyaradosmega
+
+import gallademega
+
+import garbodorgmax
+
+import garchompmega
+
+import gardevoirmega
+
+import gastrodoneast
+
+import genesectnodrive
+import genesectburn
+import genesectchill
+import genesectdouse
+import genesectshock
+
+import gengargmax
+import gengarmega
+
+import geodudealola
+
+import giratinaorigin
+
+import glaliemega
+
+import golemalola
+
+import gourgeistlarge
+import gourgeistsmall
+import gourgeistsuper
+
+import graveleralola
+
+import grimeralola
+
+import grimmsnarlgmax
+
+import groudonprimal
+
+import houndoommega
+
+import hatterenegmax
+
+import heracrossmega
+
+import hippopotasf
+
+import hippowdonf
+
+import hoopaunbound
+
+import indeedeef
+
+import inteleongmax
+
+import jellicentf
+
+import kyogreprimal
+
+import kyuremblack
+import kyuremwhite
+
+import kangaskhanmega
+
+import keldeoresolute
+
+import kinglergmax
+
+import lycanrocdusk
+import lycanrocmidnight
+
+import landorustherian
+
+import laprasgmax
+
+import latiasmega
+
+import latiosmega
+
+import linoonegalar
+
+import lopunnymega
+
+import lucariomega
+
+import machampgmax
+
+import magearnaoriginal
+
+import manectricmega
+
+import marowakalola
+
+import mawilemega
+
+import medichammega
+
+import melmetalgmax
+
+import meloettapirouette
+
+import meowsticf
+
+import meowthalola
+import meowthgalar
+import meowthgmax
+
+import metagrossmega
+
+import mewtwomegax
+import mewtwomegay
+
+import miniorblue
+import miniorgreen
+import miniorindigo
+import miniororange
+import miniorred
+import miniorviolet
+import minioryellow
+
+import moltresgalar
+
+import mrmimegalar
+
+import mukalola
+
+import necrozmadawnwings
+import necrozmaduskmane
+import necrozmaultra
+
+import ninetalesalola
+
+import orbeetlegmax
+
+import oricoriopau
+import oricoriopompom
+import oricoriosensu
+
+import pyroarf
+
+import persianalola
+
+import pichuspikyeared
+
+import pidgeotmega
+
+import pikachualolacapfemale
+import pikachualolacap
+import pikachubelle
+import pikachuf
+import pikachugmax
+import pikachuhoenncapfemale
+import pikachuhoenncap
+import pikachukaloscapfemale
+import pikachukaloscap
+import pikachulibre
+import pikachuoriginalcapfemale
+import pikachuoriginalcap
+import pikachupartnercapfemale
+import pikachupartnercap
+import pikachuphd from
+import pikachupopstar
+import pikachurockstar
+import pikachusinnohcapfemale
+import pikachusinnohcap
+import pikachuunovacapfemale
+import pikachuunovacap
+import pikachuworldcapfemale
+import pikachuworldcap
+
+import pinsirmega
+
+import ponytagalar
+
+import pumpkaboolarge
+import pumpkaboosmall
+import pumpkaboosuper
+
+import rotomfan
+import rotomfrost
+import rotomheat
+import rotommow
+import rotomwash
+
+import raichualola
+
+import rapidashgalar
+
+import raticatealola
+
+import rattataalola
+
+import rayquazamega
+
+import rillaboomgmax
+
+import swampertmega
+
+import sableyemega
+
+import salamencemega
+
+import sandacondagmax
+
+import sandshrewalola
+
+import sandslashalola
+
+import sawsbuckautumn
+import sawsbucksummer
+import sawsbuckwinter
+
+import sceptilemega
+
+import scizormega
+
+import sharpedomega
+
+import shayminsky
+
+import shelloseast
+
+import silvallybug
+import silvallydark
+import silvallydragon
+import silvallyelectric
+import silvallyfairy
+import silvallyfighting
+import silvallyfire
+import silvallyflying
+import silvallyghost
+import silvallygrass
+import silvallyground
+import silvallyice
+import silvallypoison
+import silvallypsychic
+import silvallyrock
+import silvallysteel
+import silvallywater
+
+import slowbrogalar
+import slowbromega
+
+import slowkinggalar
+
+import slowpokegalar
+
+import snorlaxgmax
+
+import spindablank
+import spindafilled
+
+import steelixmega
+
+import stunfiskgalar
+
+import tyranitarmega
+
+import 
